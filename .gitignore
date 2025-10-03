@@ -1,14 +1,38 @@
+# Unity generated folders
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
-[Uu]serSettings/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Visual Studio / VSCode
 .vs/
 .vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity project files
 *.csproj
 *.unityproj
 *.sln
 *.pidb
 *.booproj
+*.svd
+
+# Rider IDE
+.idea/
+
+# Mono auto-generated files
+*.userprefs
+*.user
+
+# Build results
+*.apk
+*.aab
+*.unitypackage
 
